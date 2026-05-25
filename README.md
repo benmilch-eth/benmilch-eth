@@ -6,8 +6,9 @@ A decade-plus in financial-services product and program work across Big 4 consul
 
 ### Things I've built
 
+- **Blockchain-anchored media authentication** — an Ed25519 device-signing client, on-chain anchoring of signature commitments to Ethereum (Sepolia), and a listener + verifier that produce verifiable provenance receipts. Ships with a threat model. → [media-auth](https://github.com/benmilch-eth/media-auth)
 - **A one-person AI "organization"** — a dozen-plus standing agent threads that coordinate *asynchronously, by writing each other letters*, moved by a small set of scheduled "mailroom" agents. Stateless per run, fully auditable, human-in-the-loop. → [ai-orchestration-kit](https://github.com/benmilch-eth/ai-orchestration-kit)
-- **Computer-vision cataloging** — a Claude Vision pipeline that turns a single photograph into a marketplace-ready listing (title, condition grade, price range, confidence flags) at roughly $0.014 per item.→ [claude-vision-cataloger](https://github.com/benmilch-eth/claude-vision-cataloger)
+- **Computer-vision cataloging** — a Claude Vision pipeline that turns a single photograph into a marketplace-ready listing (title, condition grade, price range, confidence flags) at roughly $0.014 per item. → [claude-vision-cataloger](https://github.com/benmilch-eth/claude-vision-cataloger)
 - **Data infrastructure** — Azure SQL forensic diagnosis across 100K+ rows; ETL and backfill pipelines; production integrations against the Gmail, ShipStation, and Discogs APIs.
 - **Web3** — Solidity (Cyfrin Updraft); tokenization and wallet-services strategy at Accenture, including NFT product work for Amazon and the Golden State Warriors.
 
