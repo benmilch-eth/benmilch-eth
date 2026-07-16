@@ -24,6 +24,7 @@ Python · Azure SQL / SQL Server · Claude & GPT APIs · Playwright · scheduled
 
 - LinkedIn — https://www.linkedin.com/in/benjaminmilch
 - Writing on AI orchestration — https://substack.com/@benmilch
+- 🖥️ **Live:** my always-on AI operation — 26 automated jobs, self-hosted → [ops.benmilch.com](https://ops.benmilch.com)
 
 <!--
 NOTE: This file goes in a repository named exactly `benmilch-eth` (same as your username).
