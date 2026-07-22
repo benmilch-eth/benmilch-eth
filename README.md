@@ -11,6 +11,7 @@ A decade-plus in financial-services product and program work across Big 4 consul
 - **Blockchain-anchored media authentication** — an Ed25519 device-signing client, on-chain anchoring of signature commitments to Ethereum (Sepolia), and a listener + verifier that produce verifiable provenance receipts. Ships with a threat model. → [media-auth](https://github.com/benmilch-eth/media-auth)
 - **A one-person AI "organization"** — standing agent threads that coordinate *asynchronously, by writing each other letters*, moved by a small set of scheduled "mailroom" agents. Stateless per run, fully auditable, human-in-the-loop. → [ai-orchestration-kit](https://github.com/benmilch-eth/ai-orchestration-kit)
 - **Computer-vision cataloging** — a Claude Vision pipeline that turns a single photograph into a marketplace-ready listing (title, condition grade, price range, confidence flags) at roughly $0.014 per item. → [claude-vision-cataloger](https://github.com/benmilch-eth/claude-vision-cataloger)
+- **An AI-operated collectibles business** — end to end: it sources undervalued vintage cards across marketplaces, prices them against real graded sold-comps, predicts grading arbitrage from card scans, and matches each find to the individual buyer most likely to want it — scored on era, grade tier, player, and price against deep purchase-history profiles of **16,000+ buyers**, and gated on net profit *after* real shipping and handling so it never surfaces a $5 deal. A public intake at [sell.sportscardsforever.com](https://sell.sportscardsforever.com) turns any consignor's list — spreadsheet, dealer PDF, or phone photos — into a comp-backed cash offer within the quarter hour. Every offer and buyer message is drafted for a human to approve; nothing auto-sends.
 - **Data infrastructure** — Azure SQL forensic diagnosis across 100K+ rows; ETL and backfill pipelines; production integrations against the Gmail, ShipStation, and Discogs APIs.
 - **Web3** — Solidity (Cyfrin Updraft); tokenization and wallet-services strategy at Accenture, including NFT product work for Amazon and the Golden State Warriors.
 
@@ -26,4 +27,4 @@ Python · Azure SQL / SQL Server · Claude & GPT APIs · Playwright · scheduled
 
 - LinkedIn — <https://www.linkedin.com/in/benjaminmilch>
 - Writing on AI orchestration — <https://substack.com/@benmilch>
-- 🖥️ **Live:** my always-on AI operation — **50+ automated systems, self-hosted, with public uptime/MTTR** → [ops.benmilch.com](https://ops.benmilch.com)
+- 🖥️ **Live:** my always-on AI operation — **60+ automated systems, self-hosted, with public uptime/MTTR** → [ops.benmilch.com](https://ops.benmilch.com)
